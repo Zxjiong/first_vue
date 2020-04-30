@@ -14,7 +14,7 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "mint-ui": "^2.2.13",
     "moment": "^2.24.0",
